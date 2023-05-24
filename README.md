@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+![movie-snap](https://github.com/Yogeshchitampalle/Boleto_MovieTicket_BookingApp_Clone/assets/86973304/0378ccf5-efda-4d99-b608-4a15f7b73870)
+
+![movie1](https://github.com/Yogeshchitampalle/Boleto_MovieTicket_BookingApp_Clone/assets/86973304/5a4c530f-2c39-40f4-8021-c3afc2ed3516)
+
+![movie2](https://github.com/Yogeshchitampalle/Boleto_MovieTicket_BookingApp_Clone/assets/86973304/723da51e-f19d-44a2-ba0a-4bc49c7b03fe)
+
+![Capture3](https://github.com/Yogeshchitampalle/Boleto_MovieTicket_BookingApp_Clone/assets/86973304/e1a60c62-e2be-4c54-8728-b458f8ee4b1a)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
